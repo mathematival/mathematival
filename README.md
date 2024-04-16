@@ -4,6 +4,7 @@
 
 - 🔭 I'm currently studying in Nankai University
 - 🌱 I’m currently learning everything I like.
+  <a href="https://github.com/L1cardo/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/L1cardo/iBeats/main/files/heart.svg"/></a>
 
 ## 🌠[Coding Time](https://wakatime.com/@Younger)
 > the projects I'm working on
