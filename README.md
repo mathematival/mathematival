@@ -20,4 +20,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathematival&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
 </div>
 
+- 🔭 I’m currently an undergraduate student at Nankai University.
+- 🌱 I’m currently learning everything I like.
 
+You are my ![Visitor Count](https://profile-counter.glitch.me/lxmliu2002/count.svg) visitor,Thank You!
