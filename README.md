@@ -85,26 +85,6 @@
 [![](https://raw.githubusercontent.com/kkiyama117/kkiyama117/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
  -->
 
-## 😐 But I'm still wondering...
-
-```rust
-struct AboutMe;
-
-impl AboutMe {
-    const READING_BOOK: &'static str = "The book of life";
-    const CURRENT_DEGREE: &'static str = "Master";
-    const WANT_TO_UNDERSTAND: &'static str = "WHY we should HOW to do WHAT";
-}
-
-trait OpenSource {
-    const CONTRIBUTOR_OF: &'static [&'static str] = &["Nope"];
-}
-
-impl OpenSource for AboutMe {}
-```
-
-![](https://raw.githubusercontent.com/younger-1/younger-1/output/github-contribution-grid-snake.svg)
-
 
 
 <!---
