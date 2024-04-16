@@ -2,7 +2,7 @@
   Hey, I'm mathematival!
 </h1>
 
-- 🔭 I’m currently an undergraduate student at Nankai University.
+- 🔭 I'm currently studying in Nankai University
 - 🌱 I’m currently learning everything I like.
 
 ## 🌠[Coding Time](https://wakatime.com/@Younger)
