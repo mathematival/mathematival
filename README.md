@@ -1,11 +1,9 @@
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mathematival&repo=topological-value-in-graph)
-
-![My stats](https://github-readme-stats.vercel.app/api?username=mathematival&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
 
 
 <h1 align="center">
   Hey, I'm mathematival!
 </h1>
+![My stats](https://github-readme-stats.vercel.app/api?username=mathematival&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
 
 <!-- 
 <p align="center">
