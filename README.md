@@ -6,13 +6,10 @@
 ## 🌠[Coding Time](https://wakatime.com/@Younger)
 > the projects I'm working on
 
-<!-- ![My stats](https://github-readme-stats.vercel.app/api?username=mathematival&theme=calm&show_icons=true) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathematival&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6) -->
-
-<div>
-    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=mathematival&theme=calm&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathematival&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
-</div>
+<p align="left">
+  <img src = "https://github-readme-stats.vercel.app/api?username=mathematival&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mathematival&hide_border=true&langs_count=3"/>
+</p>
 
 - 🔭 I’m currently an undergraduate student at Nankai University.
 - 🌱 I’m currently learning everything I like.
