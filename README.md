@@ -2,12 +2,6 @@
   Hey, I'm mathematival!
 </h1>
 
-<!-- 
-<div align="center">
-    <img height="150" src="images/rock-rock-rock.gif" alt="gif with funny random cat say thank you." />
-</div>
--->
-
 
 ## 🌠[Coding Time](https://wakatime.com/@Younger)
 > the projects I'm working on
