@@ -17,7 +17,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=mathematival&hide=issues&show_icons=true&theme=tokyonight" alt="mathematival's GitHub Stats">
     </td>
     <td>
-      <img src="https://github-readme-stats-ericjuice.vercel.app/api/top-langs/?username=mathematival&layout=compact&theme=tokyonight" alt="Top Languages">
+      <img src="https://github-readme-stats-ericjuice.vercel.app/api/top-langs/?username=mathematival&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages">
     </td>
   </tr>
 </table>
