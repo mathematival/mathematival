@@ -1,9 +1,5 @@
-<h1 align="center">
-  Hey, I'm mathematival!
-</h1>
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%F0%9F%91%8B%2C+I'm+mathematival!;Welcome+to+my+homepage!)](https://github.com/mathematival)
-
-
+<a href="https://github.com/mathematival"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true%C2%A0%E7%9C%9F&vCenter=true%C2%A0%E7%9C%9F&repeat=&random=&width=435&lines=Hey%2C+I'm+mathematival!;Welcome+to+my+homepage!" alt="Typing SVG" /></a>
+---
 - 🔭 I'm currently studying in Nankai University
 - 🌱 I’m currently learning everything I like.
   <a href="https://github.com/L1cardo/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/L1cardo/iBeats/main/files/heart.svg"/></a>
